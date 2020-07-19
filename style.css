@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+.btn {
+    background-color: black;
+    color: whitesmoke;
+    border: none;
+    margin-left: 20px;
+}
+
+li {
+    margin-top: 15px;
+}
